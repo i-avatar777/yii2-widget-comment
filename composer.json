@@ -8,6 +8,7 @@
   "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0",
+    "i-avatar777/yii2-widget-file-upload8": "*",
     "yiisoft/yii2": "*"
   },
   "require-dev": {
