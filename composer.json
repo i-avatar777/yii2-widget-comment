@@ -1,6 +1,6 @@
 {
   "name": "i-avatar777/yii2-widget-comment",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Виджет для Yii2 комментариев",
   "keywords": ["yii2-widget-comment"],
   "type": "project",
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "iAvatar777\\widgets\\Comment": "src"
+      "iAvatar777\\widgets\\Comment\\": "src"
     }
   },
   "repositories": [
